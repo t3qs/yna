@@ -13,3 +13,5 @@ jira test by artio 3 - smart commit
 jira test by artio 4 - smart commit
 
 jira test by artio 5 - smart commit
+
+jira test by artio 6 - smart commit
