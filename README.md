@@ -19,6 +19,8 @@ jira test by artio 6 - smart commiㅅ
 
 테스트1
 
-fork test
+fork test1
+
+fork test2
 
 ...
